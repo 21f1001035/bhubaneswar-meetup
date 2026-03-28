@@ -1,0 +1,4 @@
+Large language models are useful when the task is mostly language-based:
+summarization, extraction, classification, drafting, tutoring, and question answering.
+However, for reliable answers on private or recent knowledge, they often need retrieval.
+This is why many production systems combine an LLM with documents, tools, and structured prompts.
