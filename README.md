@@ -47,8 +47,6 @@ This repo is designed for mixed-skill participants:
 ├── case_study/
 │   ├── Student_Support_Copilot_Instructions.pdf
 │   └── Student_Support_Copilot_Instructions.md
-├── slides/
-│   └── Harnessing_LLMs_with_Python_IITM_BS_Bhubaneswar.pptx
 ├── data/
 │   ├── program_handbook.md
 │   ├── student_support_tickets.jsonl
